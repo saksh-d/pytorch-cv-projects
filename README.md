@@ -19,8 +19,6 @@ Applying transfer learning on the same custom food dataset using a pretrained Ef
 
 [View project](./food101_transfer/)
 
----
-
 ## Requirements
 
 These notebooks assume the following:
