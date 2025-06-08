@@ -1,4 +1,4 @@
-# PyTorch Projects: Computer Vision Experiments
+# PyTorch: Computer Vision Project
 
 This repository contains a series of PyTorch projects demonstrating core deep learning workflows in computer vision.
 
