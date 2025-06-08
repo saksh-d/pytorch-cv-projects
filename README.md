@@ -19,6 +19,10 @@ Applying transfer learning on the same custom food dataset using a pretrained Ef
 
 [View project](./food101_transfer/)
 
+## References
+ - https://github.com/mrdbourke/pytorch-deep-learning/
+ - https://learnpytorch.io/
+
 ## Requirements
 
 These notebooks assume the following:
