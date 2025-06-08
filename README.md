@@ -7,7 +7,7 @@ This repository contains a series of PyTorch projects demonstrating core deep le
 ### 1. FashionMNIST CNN
 A simple convolutional neural network trained on the FashionMNIST dataset to classify grayscale clothing images.
 
-[View project](./fashionmnist/)
+[View project](./fashionMNIST/)
 
 ### 2. Food101 Subset - Custom Dataset
 A classifier trained on a 3-class subset of the Food101 dataset using a custom PyTorch dataset.
